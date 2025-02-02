@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akoumianakis Manos</h1>
 <h3 align="center">Passionate Beginner in Backend Development | Aspiring Cloud Architect | Enthusiastic Network Management Specialist</h3>
 
-- 🌱 I’m currently learning **Computer Architercture**
+- 🌱 I’m currently learning **Microsoft Power Platforms**
 
 - 👨‍💻 All of my projects are available at [github.akoum.dev](github.akoum.dev)
 
